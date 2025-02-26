@@ -1,2 +1,2 @@
 # islamic-date
-Islamic date plugin wordpress
+Islamic date plugin wordpress for Pakistan
